@@ -17,6 +17,21 @@ body {
     font-family: 'Merriweather', serif;
     color: #fff;
 }
+ul{
+    background-color: darkcyan;
+    height: 60px;
+}
+ul li{
+   padding: 2;
+  
+}
+ ul li a{
+   color: white;
+    padding: 5px;
+} 
+ul li a:hover{
+    background-color: rgb(46, 44, 44);
+}
 
 
 /* Typeography General*/
